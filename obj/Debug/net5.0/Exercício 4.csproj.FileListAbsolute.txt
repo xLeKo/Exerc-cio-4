@@ -1,0 +1,16 @@
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.csproj.AssemblyReference.cache
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.AssemblyInfoInputs.cache
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.AssemblyInfo.cs
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.csproj.CoreCompileInputs.cache
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\Exercício 4.exe
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\Exercício 4.deps.json
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\Exercício 4.runtimeconfig.json
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\Exercício 4.runtimeconfig.dev.json
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\Exercício 4.dll
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\ref\Exercício 4.dll
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\bin\Debug\net5.0\Exercício 4.pdb
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.dll
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\ref\Exercício 4.dll
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.pdb
+C:\Área de Trabalho\Projetos de Programação\Exercício 4\obj\Debug\net5.0\Exercício 4.genruntimeconfig.cache
